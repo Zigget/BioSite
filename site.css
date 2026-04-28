@@ -15,14 +15,14 @@ header {
   text-align: center;
 }
 
-body.home-page {
-    margin: 0;
-    padding: 0;
-    background-image: url("images/PXL_20250709_235313893.jpg"); /* your image path */
-    background-size: cover;        /* makes image fill the screen */
-    background-repeat: no-repeat;  /* prevents tiling */
-    background-position: center;   /* centers the image */
-    background-attachment: fixed;
+.home-page {
+  margin: 0;
+  padding: 0;
+  background-image: url("Images/PXL_20250709_235313893.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .container {
