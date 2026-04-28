@@ -43,6 +43,16 @@ body {
     font-family: arial;
 }
 
+.home-page {
+    margin: 0;
+    padding: 0;
+    background-image: url("images/PXL_20250709_235313893.jpg"); /* your image path */
+    background-size: cover;        /* makes image fill the screen */
+    background-repeat: no-repeat;  /* prevents tiling */
+    background-position: center;   /* centers the image */
+    background-attachment: fixed;
+}
+
 .container {
   margin-top: 2%;
   margin-left: 5%;
