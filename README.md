@@ -3,5 +3,5 @@
 <h2>Contributors</h2>
 <ul>
   <li>Instructor: Adam Bailey</li>
-  <li>Student: Samuel Sidzina</li>
+  <li>Student: Samuel Sidzyik</li>
 </ul>
