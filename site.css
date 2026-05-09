@@ -37,6 +37,7 @@ html {
   overflow: hidden;
   background-color: #34495e;
   border-left: 15px solid #d6a800;
+  z-index: 9999;
 }
 .side-navbar a {
   float: left;
@@ -56,7 +57,7 @@ html {
 /*Text Box*/
 .bio {
   position: fixed;
-  left: 25%;
+  left: 35%;
   top: 80;
   width: 30%;
   background: rgba(0, 0, 0, 0.45);
