@@ -10,6 +10,7 @@ html {
   padding: 20px;
   text-align: center;
   font-family: arial;
+  font-size: 20px
 }
 
 /*Home BG Image*/
@@ -72,10 +73,11 @@ p2 {
 }
 .section {
     display: flex;
+    margin-left: 120px;
     align-items: center;
     justify-content: center;
     padding: 80px 0;
-    width: 100%;
+    width: 95%;
     position: relative;
 }
 
